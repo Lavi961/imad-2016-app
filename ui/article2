@@ -1,0 +1,14 @@
+<html>
+    <head>
+<title><b>ARTICLE1</b></title>    
+ </head>
+ <body>
+     <div>
+         <p>
+            Hello There. This is an html document!
+         <b><n>Bold</n></b>
+         <u>hi</u>
+         </p>
+     </div>
+ </body>
+</html>
